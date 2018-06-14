@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FasterEmail</string>
+    <string name="ht_email_to">Para:</string>
+    <string name="ht_email_subject">Assunto</string>
+    <string name="ht_email_message">Mensagem de email</string>
+    <string name="send_button">Enviar</string>
+</resources>
