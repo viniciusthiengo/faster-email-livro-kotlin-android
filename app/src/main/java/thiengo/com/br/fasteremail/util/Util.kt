@@ -14,14 +14,14 @@ import java.util.regex.Pattern
 
 fun isEmail(email: String) =
         Pattern
-                .compile("^(([\\w-]+\\.)+[\\w-]+|([a-zA-Z]|[\\w-]{2,}))@"
-                        + "((([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\\.([0-1]?"
-                        + "[0-9]{1,2}|25[0-5]|2[0-4][0-9])\\."
-                        + "([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\\.([0-1]?"
-                        + "[0-9]{1,2}|25[0-5]|2[0-4][0-9]))|"
-                        + "([a-zA-Z]+[\\w-]+\\.)+[a-zA-Z]{2,4}[ ,]{1})$")
-                .matcher(email)
-                .matches()
+            .compile("^(([\\w-]+\\.)+[\\w-]+|([a-zA-Z]|[\\w-]{2,}))@"
+                + "((([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\\.([0-1]?"
+                + "[0-9]{1,2}|25[0-5]|2[0-4][0-9])\\."
+                + "([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\\.([0-1]?"
+                + "[0-9]{1,2}|25[0-5]|2[0-4][0-9]))|"
+                + "([a-zA-Z]+[\\w-]+\\.)+[a-zA-Z]{2,4}[ ,]{1})$")
+            .matcher(email)
+            .matches()
 
 fun getImageResource(text: String?) : Int {
     val t = text ?: ""
@@ -111,10 +111,10 @@ fun retrieveSpannableWithBitmap(
      * */
     val imgDrawable = BitmapDrawable( context.resources, bitmap )
     imgDrawable.setBounds(
-            0,
-            0,
-            imgDrawable.getIntrinsicWidth(),
-            imgDrawable.getIntrinsicHeight() )
+        0,
+        0,
+        imgDrawable.getIntrinsicWidth(),
+        imgDrawable.getIntrinsicHeight() )
 
     /*
      * Colocando a nova ImageSpan oculpando um único caractere
@@ -122,10 +122,10 @@ fun retrieveSpannableWithBitmap(
      * */
     val imgSpan = ImageSpan(imgDrawable, ImageSpan.ALIGN_BASELINE)
     spannable.setSpan(
-            imgSpan,
-            startPositionTexto,
-            startPositionTexto + 1,
-            Spannable.SPAN_INCLUSIVE_EXCLUSIVE )
+        imgSpan,
+        startPositionTexto,
+        startPositionTexto + 1,
+        Spannable.SPAN_INCLUSIVE_EXCLUSIVE )
 
     return spannable
 }
