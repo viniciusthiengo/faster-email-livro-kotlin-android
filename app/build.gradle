@@ -6,7 +6,7 @@ android {
     compileSdkVersion 27
     defaultConfig {
         applicationId "thiengo.com.br.fasteremail"
-        minSdkVersion 16
+        minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
@@ -23,14 +23,20 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation"org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation 'com.android.support:design:27.1.1'
 
-    /* Para carregamento de imagens remotas */
+    // Para carregamento de imagens remotas
     implementation('com.squareup.picasso:picasso:2.71828') {
-        exclude module: 'exifinterface' // com.android.support:exifinterface:27.1.0 estava em conflito
+        /*
+		 * com.android.support:exifinterface:27.1.0 estava em conflito com a versão
+		 * 27.1.1 que está presente na biblioteca support:design. Optamos pela mais
+		 * atual, então a seguir estamos removendo a versão 27.1.0.
+		 * */
+        exclude module: 'exifinterface'
     }
 
-    /* Para o trabalho com o chips component */
+    // Para o trabalho com o componente chips
     implementation 'com.github.pchmn:MaterialChipsInput:1.0.8'
 }

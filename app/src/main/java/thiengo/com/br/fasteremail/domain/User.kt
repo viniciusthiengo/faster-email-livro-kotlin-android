@@ -9,12 +9,12 @@ import android.support.v4.content.ContextCompat
 import com.pchmn.materialchips.model.ChipInterface
 import com.squareup.picasso.Picasso
 import thiengo.com.br.fasteremail.util.ImageReceiver
-import thiengo.com.br.fasteremail.util.Util
+import thiengo.com.br.fasteremail.util.getImageResource
 
 
 class User(
-        private val context: Context, /* Para que seja possível o uso da API de carregamento d imagens remotas */
-        private var avatarUri: Uri?, /* Agora var para que seja possível colocar o valor como null quando avatarDrawable estiver preenchido. */
+        private val context: Context, // Para que seja possível o carregamento das imagens locais
+        private var avatarUri: Uri?, // Agora var para que seja possível colocar o valor como null quando avatarDrawable estiver preenchido.
         private val label: String,
         private val info: String ) : ChipInterface {
 
@@ -57,7 +57,7 @@ class User(
          * remota seja "carregando", uma imagem de perfil
          * com a primeira letra do nome dele seja utilizada.
          * */
-        avatarDrawable = ContextCompat.getDrawable( context, Util.getImageResource(label) )
+        avatarDrawable = ContextCompat.getDrawable( context, getImageResource(label) )
 
         /*
          * Carregando a imagem remota com a API Picasso.

@@ -11,7 +11,7 @@ import java.lang.Exception
 class ImageReceiver(val user: User): Target {
     override fun onPrepareLoad(placeHolderDrawable: Drawable?) {}
 
-    override fun onBitmapFailed(e: Exception?, errorDrawable: Drawable?) {}
+    override fun onBitmapFailed(error: Exception?, errorDrawable: Drawable?) {}
 
     override fun onBitmapLoaded(bitmap: Bitmap?, from: Picasso.LoadedFrom?) {
         user.setAvatarDrawable( bitmap )

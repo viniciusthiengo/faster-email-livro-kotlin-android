@@ -15,7 +15,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.content_main.*
 import thiengo.com.br.fasteremail.data.Database
 import thiengo.com.br.fasteremail.domain.User
-import thiengo.com.br.fasteremail.util.Util
+import thiengo.com.br.fasteremail.util.*
 
 class MainActivity :
         AppCompatActivity(),
@@ -89,12 +89,12 @@ class MainActivity :
          * do acionamento do item "Enviar".
          * */
         for( i in ci_contacts.selectedChipList ){
-            Log.i("log", "User:");
-            Log.i("log", " - Label: ${i.label}");
-            Log.i("log", " - Info: ${i.info}");
+            Log.i("log", "User:")
+            Log.i("log", " - Label: ${i.label}")
+            Log.i("log", " - Info: ${i.info}")
         }
         Log.i("log", "Email:");
-        Log.i("log", " - Mensagem: ${et_message.text}");
+        Log.i("log", " - Mensagem: ${et_message.text}")
 
         return super.onOptionsItemSelected(item)
     }
@@ -107,7 +107,7 @@ class MainActivity :
      * que o email é reconhecido o contato é adicionado.
      * */
     override fun onTextChanged(contact: CharSequence?) {
-        if( Util.isEmail( contact.toString() ) ){
+        if( isEmail( contact.toString() ) ){
             ci_contacts.addChip( getUserByEmail( contact.toString() ) )
         }
     }
@@ -148,7 +148,7 @@ class MainActivity :
      * imagem, ChipView.
      * */
     override fun onTextChanged(text: CharSequence?, p1: Int, p2: Int, p3: Int) {
-        if( Util.containsHashTag( text.toString() ) ){
+        if( containsHashTag( text.toString() ) ){
             /*
              * Enquanto o padrão de hashtag permanecer sendo
              * encontrado no text informado pelo usuário mantanha
@@ -175,7 +175,7 @@ class MainActivity :
 
     private fun changeHashTagToImage(text: String){
         /* Obtendo o último hashtag presente em texto. */
-        val match = Util.getHashTagMatch(text)
+        val match = getHashTagMatch(text)
 
         while( match.find() ) {
             val hashTag = match.group()
@@ -185,7 +185,7 @@ class MainActivity :
             /* Criando Bitmap de um ChipView. */
             val chipView = ChipView(this)
             chipView.label = hashTag.replace("#", "") /* O # não ficará no Bitmap gerado de ChipView. */
-            val imgBitmap = Util.createBitmapFromView( chipView )
+            val imgBitmap = createBitmapFromView( chipView )
 
             /*
              * A obtenção da Spanned String do EditText como SpannableStringBuilder
@@ -193,7 +193,7 @@ class MainActivity :
              * deixar somente a versão em imagem.
              * */
             var spannable = et_message.text as SpannableStringBuilder
-            spannable = Util.retrieveSpannableWithBitmap(
+            spannable = retrieveSpannableWithBitmap(
                 this,
                 spannable,
                 imgBitmap,

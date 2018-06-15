@@ -12,7 +12,7 @@ buildscript {
 
 allprojects {
     repositories {
-        google()
+        //google()
         jcenter()
         maven { url "https://jitpack.io" } /* Para o trabalho com o chips component */
     }
