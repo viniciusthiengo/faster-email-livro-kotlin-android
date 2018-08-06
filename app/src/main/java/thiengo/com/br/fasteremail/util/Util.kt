@@ -69,28 +69,28 @@ fun getHashTagMatch(text: String) =
         .compile("\\B(\\#[A-zÀ-úA-zÀ-ÿ]+\\b)")
         .matcher(text)
 
-fun createBitmapFromView(v: View): Bitmap {
+fun createBitmapFromView(view: View): Bitmap {
     val width: Int
     val height: Int
 
     /*
-     * Em algumas versões do Android o v.measuredHeight não
+     * Em algumas versões do Android o view.measuredHeight não
      * será maior do que 0, por isso a necessidade desses
      * condicionais e algoritmos específicos.
      * */
-    if(v.measuredHeight <= 0) {
-        v.measure(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT)
-        width = v.measuredWidth
-        height = v.measuredHeight
-        v.layout(0, 0, width, height)
+    if(view.measuredHeight <= 0) {
+        view.measure(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT)
+        width = view.measuredWidth
+        height = view.measuredHeight
+        view.layout(0, 0, width, height)
     }
     else {
-        width = v.layoutParams.width
-        height = v.layoutParams.height
-        v.layout(v.left, v.top, v.right, v.bottom)
+        width = view.layoutParams.width
+        height = view.layoutParams.height
+        view.layout(view.left, view.top, view.right, view.bottom)
     }
     val bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888)
-    v.draw( Canvas(bitmap) )
+    view.draw( Canvas(bitmap) )
 
     return bitmap
 }
