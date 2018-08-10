@@ -4,27 +4,27 @@ ADDED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml:2:1-30:12
-MERGED from [com.android.support:design:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/38e21ea538114794af0f80b4ce5c3f7e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.8.aar/41fc2728d9eae65bb43c539e3cfddeee/AndroidManifest.xml:2:1-17:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/702de77fe9fd56ab75dd1b6dc9f5ad7d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50bf397b7bf2df2ee3be7b060e9b7b13/AndroidManifest.xml:2:1-14:12
-MERGED from [com.android.support:transition:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/700a95b4a6657d3e9b85ba5d03d96fa5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.jakewharton:butterknife:8.5.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/butterknife-8.5.1.aar/14e85094b2eabb1bde65b065e9d0aa3e/AndroidManifest.xml:2:1-7:12
-MERGED from [com.android.support:support-v4:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b0185e07034d4d68dcf88204b4724799/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9fa6875ddfbc4fe97a9d4dd1e458c922/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8f502373b49b8f51a122832ed111b30c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b33124262a7e87c0ec4093683bc8469d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/def74cc3fc2a38ba8f2547e589211c7f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dbcae3612da6f582548a75f760cec461/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f277a2e698ad23acd35deb52eaa078d7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f9b0e5f927a9d7054b6a1d60b92bc5e4/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3e1c32101ca427860c19114c115ee370/AndroidManifest.xml:17:1-22:12
-MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/86e131f892c9f3fab8afd141fa8be35e/AndroidManifest.xml:2:1-12:12
-MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/55c1131ca3fabc8baae6d47f4ae0b19b/AndroidManifest.xml:2:1-11:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3f5f2401303c7c8e0bdb5460d3e944af/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e08825d7782daeff7f9cb479849f900a/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f8aa1a480e7cd81adcea2d80a3904b74/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1bb1f66971e47cf8ea1f8e4c4cc2227d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8fe553240f4ed134f36b2ec3fd028afa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.8.aar/69daa0dca27c3205d0e14e949a39e2fc/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f95e696edf0db39fa1ca1c335bfeae5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/bd6804d5f79aaa6df9b9fa6c8bc9a022/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:transition:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/47710ebb55f198bfd6e38443e18f11d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.5.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/butterknife-8.5.1.aar/e4090c3d112b0bc40745817395603852/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d5d6741194a27d36a7aca648e01ae230/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/39e4618d86910f1a8f7be029298bd11a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ba3ad6ed89d9b005f902e68cd94f7570/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a4c4d28899f105cf534a4ca96e0e5bbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3a1b667f4fc10f1160b68b91f509bd16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cd4a049d69fb016df2ba2b9c013f69e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b414d6a202c417f7454c2345880eb55b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/94701650a330e0365324d009aba9d1a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4c34f5d7360e173b00f03f04899f689/AndroidManifest.xml:17:1-22:12
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/0d818fa489d7042c957db399b1e892da/AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/ad674752088e9f9f15f48b25e349654a/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2102b8cccb5786212e1b895383abc778/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d869fe56eef4873caee636ab4094b17/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9c001dcef7a0070b066e24d2dd7326b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0df2620d5f6ffeed2c97e91977f5d508/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml:2:1-30:12
@@ -48,12 +48,12 @@ ADDED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/
 		ADDED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml:5:22-64
 application
 ADDED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml:7:5-28:19
-MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.8.aar/41fc2728d9eae65bb43c539e3cfddeee/AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.8.aar/41fc2728d9eae65bb43c539e3cfddeee/AndroidManifest.xml:11:5-15:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50bf397b7bf2df2ee3be7b060e9b7b13/AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50bf397b7bf2df2ee3be7b060e9b7b13/AndroidManifest.xml:7:5-12:19
-MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/55c1131ca3fabc8baae6d47f4ae0b19b/AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/55c1131ca3fabc8baae6d47f4ae0b19b/AndroidManifest.xml:9:5-20
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.8.aar/69daa0dca27c3205d0e14e949a39e2fc/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.8.aar/69daa0dca27c3205d0e14e949a39e2fc/AndroidManifest.xml:11:5-15:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/bd6804d5f79aaa6df9b9fa6c8bc9a022/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/bd6804d5f79aaa6df9b9fa6c8bc9a022/AndroidManifest.xml:7:5-12:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/ad674752088e9f9f15f48b25e349654a/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/ad674752088e9f9f15f48b25e349654a/AndroidManifest.xml:9:5-20
 	android:supportsRtl
 		ADDED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
@@ -92,48 +92,48 @@ uses-sdk
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/38e21ea538114794af0f80b4ce5c3f7e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/38e21ea538114794af0f80b4ce5c3f7e/AndroidManifest.xml:20:5-44
-MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.8.aar/41fc2728d9eae65bb43c539e3cfddeee/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.8.aar/41fc2728d9eae65bb43c539e3cfddeee/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/702de77fe9fd56ab75dd1b6dc9f5ad7d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/702de77fe9fd56ab75dd1b6dc9f5ad7d/AndroidManifest.xml:20:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50bf397b7bf2df2ee3be7b060e9b7b13/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50bf397b7bf2df2ee3be7b060e9b7b13/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/700a95b4a6657d3e9b85ba5d03d96fa5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/700a95b4a6657d3e9b85ba5d03d96fa5/AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton:butterknife:8.5.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/butterknife-8.5.1.aar/14e85094b2eabb1bde65b065e9d0aa3e/AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.5.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/butterknife-8.5.1.aar/14e85094b2eabb1bde65b065e9d0aa3e/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b0185e07034d4d68dcf88204b4724799/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b0185e07034d4d68dcf88204b4724799/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9fa6875ddfbc4fe97a9d4dd1e458c922/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9fa6875ddfbc4fe97a9d4dd1e458c922/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8f502373b49b8f51a122832ed111b30c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8f502373b49b8f51a122832ed111b30c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b33124262a7e87c0ec4093683bc8469d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b33124262a7e87c0ec4093683bc8469d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/def74cc3fc2a38ba8f2547e589211c7f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/def74cc3fc2a38ba8f2547e589211c7f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dbcae3612da6f582548a75f760cec461/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dbcae3612da6f582548a75f760cec461/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f277a2e698ad23acd35deb52eaa078d7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/f277a2e698ad23acd35deb52eaa078d7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f9b0e5f927a9d7054b6a1d60b92bc5e4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f9b0e5f927a9d7054b6a1d60b92bc5e4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3e1c32101ca427860c19114c115ee370/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3e1c32101ca427860c19114c115ee370/AndroidManifest.xml:20:5-44
-MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/86e131f892c9f3fab8afd141fa8be35e/AndroidManifest.xml:8:5-10:41
-MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/86e131f892c9f3fab8afd141fa8be35e/AndroidManifest.xml:8:5-10:41
-MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/55c1131ca3fabc8baae6d47f4ae0b19b/AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/55c1131ca3fabc8baae6d47f4ae0b19b/AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3f5f2401303c7c8e0bdb5460d3e944af/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3f5f2401303c7c8e0bdb5460d3e944af/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e08825d7782daeff7f9cb479849f900a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e08825d7782daeff7f9cb479849f900a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f8aa1a480e7cd81adcea2d80a3904b74/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f8aa1a480e7cd81adcea2d80a3904b74/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1bb1f66971e47cf8ea1f8e4c4cc2227d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1bb1f66971e47cf8ea1f8e4c4cc2227d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8fe553240f4ed134f36b2ec3fd028afa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8fe553240f4ed134f36b2ec3fd028afa/AndroidManifest.xml:20:5-44
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.8.aar/69daa0dca27c3205d0e14e949a39e2fc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.pchmn:MaterialChipsInput:1.0.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/MaterialChipsInput-1.0.8.aar/69daa0dca27c3205d0e14e949a39e2fc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f95e696edf0db39fa1ca1c335bfeae5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f95e696edf0db39fa1ca1c335bfeae5e/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/bd6804d5f79aaa6df9b9fa6c8bc9a022/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/bd6804d5f79aaa6df9b9fa6c8bc9a022/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/47710ebb55f198bfd6e38443e18f11d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/47710ebb55f198bfd6e38443e18f11d9/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.5.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/butterknife-8.5.1.aar/e4090c3d112b0bc40745817395603852/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/butterknife-8.5.1.aar/e4090c3d112b0bc40745817395603852/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d5d6741194a27d36a7aca648e01ae230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d5d6741194a27d36a7aca648e01ae230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/39e4618d86910f1a8f7be029298bd11a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/39e4618d86910f1a8f7be029298bd11a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ba3ad6ed89d9b005f902e68cd94f7570/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ba3ad6ed89d9b005f902e68cd94f7570/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a4c4d28899f105cf534a4ca96e0e5bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a4c4d28899f105cf534a4ca96e0e5bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3a1b667f4fc10f1160b68b91f509bd16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3a1b667f4fc10f1160b68b91f509bd16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cd4a049d69fb016df2ba2b9c013f69e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cd4a049d69fb016df2ba2b9c013f69e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b414d6a202c417f7454c2345880eb55b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b414d6a202c417f7454c2345880eb55b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/94701650a330e0365324d009aba9d1a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/94701650a330e0365324d009aba9d1a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4c34f5d7360e173b00f03f04899f689/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e4c34f5d7360e173b00f03f04899f689/AndroidManifest.xml:20:5-44
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/0d818fa489d7042c957db399b1e892da/AndroidManifest.xml:8:5-10:41
+MERGED from [com.beloo.widget:ChipsLayoutManager:0.3.7] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/ChipsLayoutManager-0.3.7.aar/0d818fa489d7042c957db399b1e892da/AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/ad674752088e9f9f15f48b25e349654a/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/ad674752088e9f9f15f48b25e349654a/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2102b8cccb5786212e1b895383abc778/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2102b8cccb5786212e1b895383abc778/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d869fe56eef4873caee636ab4094b17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6d869fe56eef4873caee636ab4094b17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9c001dcef7a0070b066e24d2dd7326b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c9c001dcef7a0070b066e24d2dd7326b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0df2620d5f6ffeed2c97e91977f5d508/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0df2620d5f6ffeed2c97e91977f5d508/AndroidManifest.xml:20:5-44
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml
 INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -145,10 +145,10 @@ INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/ma
 		ADDED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/viniciusthiengo/Desktop/Applications/FasterEmail/app/src/main/AndroidManifest.xml
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50bf397b7bf2df2ee3be7b060e9b7b13/AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/bd6804d5f79aaa6df9b9fa6c8bc9a022/AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50bf397b7bf2df2ee3be7b060e9b7b13/AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/bd6804d5f79aaa6df9b9fa6c8bc9a022/AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50bf397b7bf2df2ee3be7b060e9b7b13/AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/bd6804d5f79aaa6df9b9fa6c8bc9a022/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/50bf397b7bf2df2ee3be7b060e9b7b13/AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/bd6804d5f79aaa6df9b9fa6c8bc9a022/AndroidManifest.xml:9:13-64
